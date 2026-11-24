@@ -1,1 +1,9 @@
-# linkopen-releases
+# LinkOpen（リンク一斉オープン）配布用
+
+自作Androidアプリ「リンク一斉オープン」のAPKを配布するためのリポジトリです。
+**ソースコードは含みません。**
+
+- 最新版は [Releases](../../releases/latest) にあります
+- アプリの「最新版を確認して更新」や、操作画面の「アプリを更新」は、ここの最新リリースを見に来ます
+  - `LinkOpen.apk` … アプリ本体
+  - `version.json` … 版の番号（例：`{"versionCode":8,"versionName":"1.7"}`）
